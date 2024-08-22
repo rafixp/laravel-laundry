@@ -47,3 +47,7 @@
 	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6781)
 	at MessagePortMain.emit (node:events:519:28)
 	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-08-22 14:03:39.351 [error] InstantiationService has been disposed: Error: InstantiationService has been disposed
+    at g.m (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:655:386)
+    at g.createInstance (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:655:944)
+    at Ue.Wc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2633:57059)
