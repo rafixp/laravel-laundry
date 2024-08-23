@@ -359,3 +359,10 @@
     at async Promise.all (index 1)
     at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
     at async Promise.all (index 0)
+2024-08-23 11:14:40.296 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)

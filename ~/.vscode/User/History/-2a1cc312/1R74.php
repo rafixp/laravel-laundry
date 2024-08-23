@@ -87,7 +87,7 @@ class adminController extends Controller
         $data = [
             "nama" => $req->input('nama'),
             "alamat" => $req->input('alamat'),
-            "jk" => $req->get('jk'),
+            "jk" => $req->input('jk'),
             "tlp" => $req->input('tlp')
         ];
 
@@ -111,7 +111,7 @@ class adminController extends Controller
         $data = [
             "nama" => $req->input('nama'),
             "alamat" => $req->input('alamat'),
-            "jk" => $req->get('jk'),
+            "jk" => $req->input('jk'),
             "tlp" => $req->input('tlp')
         ];
 

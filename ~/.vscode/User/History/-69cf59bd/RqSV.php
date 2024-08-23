@@ -29,5 +29,5 @@ Route::get('/admin/member/tambahmember', [App\Http\Controllers\adminController::
 Route::post('/admin/member/tambahmember', [App\Http\Controllers\adminController::class, 'tambahmember']);
 Route::get('/admin/member/edit/{id}', [App\Http\Controllers\adminController::class, 'editmemberView']);
 Route::post('/admin/member/edit/{id}', [App\Http\Controllers\adminController::class, 'editmember']);
-Route::get('/admin/member/hapus/{id}', [App\Http\Controllers\adminController::class, 'hapusmember']);
+Route::post('/admin/member/hapus/{id}', [App\Http\Controllers\adminController::class, 'hapusmember']);
 

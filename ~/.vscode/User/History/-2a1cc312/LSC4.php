@@ -87,7 +87,7 @@ class adminController extends Controller
         $data = [
             "nama" => $req->input('nama'),
             "alamat" => $req->input('alamat'),
-            "jk" => $req->get('jk'),
+            "jk" => $req->input('jk'),
             "tlp" => $req->input('tlp')
         ];
 
@@ -111,7 +111,7 @@ class adminController extends Controller
         $data = [
             "nama" => $req->input('nama'),
             "alamat" => $req->input('alamat'),
-            "jk" => $req->get('jk'),
+            "jk" => $req->input('jk'),
             "tlp" => $req->input('tlp')
         ];
 
@@ -127,11 +127,7 @@ class adminController extends Controller
     public function hapusmember($id){
         $user = Member::findOrFail($id);
         if($user->delete()){
-            Session::flash('success','Data member berhasil dihapus !');
-            return redirect('/admin/member');
-        }else{
-            Session::flash('error','Data member gagal dihapus !');
-            return redirect('/admin/member');
+            
         }
     }
 }
