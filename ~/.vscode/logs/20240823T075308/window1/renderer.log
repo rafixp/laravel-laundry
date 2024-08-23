@@ -1,0 +1,361 @@
+2024-08-23 07:53:15.184 [info] Started local extension host with pid 2694.
+2024-08-23 07:53:21.669 [info] [perf] Render performance baseline is 15ms
+2024-08-23 08:36:46.333 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/web.php:23
+     19▕ 
+     20▕ Route::get('/admin/home', [App\Http\Controllers\kasirController::class, 'homeView']);
+     21▕ Route::get('/admin/outlet', [App\Http\Controllers\kasirController::class, 'outletView']);
+     22▕ Route::get()
+  ➜  23▕
+
+      [2m+3 vendor frames [22m
+
+  4   app/Providers/RouteServiceProvider.php:37
+      Illuminate\Routing\RouteRegistrar::group()
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+2024-08-23 08:37:09.759 [error] 
+   ParseError 
+
+  syntax error, unexpected token "\", expecting "]"
+
+  at routes/web.php:22
+     18▕ });
+     19▕ 
+     20▕ Route::get('/admin/home', [App\Http\Controllers\kasirController::class, 'homeView']);
+     21▕ Route::get('/admin/outlet', [App\Http\Controllers\kasirController::class, 'outletView']);
+  ➜  22▕ Route::get('/admin/outlet/tambahoutlet', [App\Http\Controllers\])
+     23▕
+
+      [2m+3 vendor frames [22m
+
+  4   app/Providers/RouteServiceProvider.php:37
+      Illuminate\Routing\RouteRegistrar::group()
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+2024-08-23 08:37:15.031 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/web.php:23
+     19▕ 
+     20▕ Route::get('/admin/home', [App\Http\Controllers\kasirController::class, 'homeView']);
+     21▕ Route::get('/admin/outlet', [App\Http\Controllers\kasirController::class, 'outletView']);
+     22▕ Route::get('/admin/outlet/tambahoutlet', [App\Http\Controllers\KasirC])
+  ➜  23▕
+
+      [2m+3 vendor frames [22m
+
+  4   app/Providers/RouteServiceProvider.php:37
+      Illuminate\Routing\RouteRegistrar::group()
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+2024-08-23 08:37:19.517 [error] Invalid regular expression: /use (.+)[App\Http\Controllers\kasirController;/g: Unterminated character class: SyntaxError: Invalid regular expression: /use (.+)[App\Http\Controllers\kasirController;/g: Unterminated character class
+	at new RegExp (<anonymous>)
+	at k.getModelClass (/root/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.6/dist/extension.js:1:155657)
+	at k.provideCompletionItems (/root/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.6/dist/extension.js:1:154071)
+	at ye.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:115716)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:141995
+	at De.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:133052)
+	at De.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:141981)
+	at E.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:5980)
+	at E.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:5746)
+	at E.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4739)
+	at E.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3605)
+	at i.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2297)
+	at n.B (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+	at n.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:954)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:14453)
+	at i.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:8655)
+	at n.B (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+	at n.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:954)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:14453)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6781)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-08-23 08:37:20.223 [error] [Extension Host] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/web.php:23
+     19▕ 
+     20▕ Route::get('/admin/home', [App\Http\Controllers\kasirController::class, 'homeView']);
+     21▕ Route::get('/admin/outlet', [App\Http\Controllers\kasirController::class, 'outletView']);
+     22▕ Route::get('/admin/outlet/tambahoutlet', [App\Http\Controllers\KasirC])
+  ➜  23▕
+
+      [2m+3 vendor frames [22m
+
+  4   app/Providers/RouteServiceProvider.php:37
+      Illuminate\Routing\RouteRegistrar::group()
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+2024-08-23 08:37:21.218 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/web.php:23
+     19▕ 
+     20▕ Route::get('/admin/home', [App\Http\Controllers\kasirController::class, 'homeView']);
+     21▕ Route::get('/admin/outlet', [App\Http\Controllers\kasirController::class, 'outletView']);
+     22▕ Route::get('/admin/outlet/tambahoutlet', [App\Http\Controllers\KasirC])
+  ➜  23▕
+
+      [2m+3 vendor frames [22m
+
+  4   app/Providers/RouteServiceProvider.php:37
+      Illuminate\Routing\RouteRegistrar::group()
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+2024-08-23 08:37:22.578 [error] Invalid regular expression: /use (.+)[App\Http\Controllers\kasirController;/g: Unterminated character class: SyntaxError: Invalid regular expression: /use (.+)[App\Http\Controllers\kasirController;/g: Unterminated character class
+	at new RegExp (<anonymous>)
+	at k.getModelClass (/root/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.6/dist/extension.js:1:155657)
+	at k.provideCompletionItems (/root/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.6/dist/extension.js:1:154071)
+	at ye.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:115716)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:141995
+	at De.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:133052)
+	at De.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:141981)
+	at E.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:5980)
+	at E.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:5746)
+	at E.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4739)
+	at E.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3605)
+	at i.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2297)
+	at n.B (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+	at n.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:954)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:14453)
+	at i.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:8655)
+	at n.B (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+	at n.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:954)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:14453)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6781)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-08-23 08:49:41.668 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 08:49:46.691 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 08:50:09.096 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 09:05:10.073 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 09:12:59.161 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 09:16:56.648 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 09:16:58.636 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 09:32:37.323 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 09:35:18.561 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/web.php:28
+     24▕ Route::get('/admin/outlet/hapus/{id}', [App\Http\Controllers\adminController::class, 'hapusOutlet']);
+     25▕ Route::get('/admin/outlet/edit/{id}', [App\Http\Controllers\adminController::class, 'editOutletView']);
+     26▕ Route::post('/admin/outlet/editoutlet/{id}', [App\Http\Controllers\adminController::class, 'editOutlet']);
+     27▕ Route::get('/admin/member/', )
+  ➜  28▕
+
+      [2m+3 vendor frames [22m
+
+  4   app/Providers/RouteServiceProvider.php:37
+      Illuminate\Routing\RouteRegistrar::group()
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+2024-08-23 09:35:20.388 [error] [Extension Host] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/web.php:28
+     24▕ Route::get('/admin/outlet/hapus/{id}', [App\Http\Controllers\adminController::class, 'hapusOutlet']);
+     25▕ Route::get('/admin/outlet/edit/{id}', [App\Http\Controllers\adminController::class, 'editOutletView']);
+     26▕ Route::post('/admin/outlet/editoutlet/{id}', [App\Http\Controllers\adminController::class, 'editOutlet']);
+     27▕ Route::get('/admin/member/', )
+  ➜  28▕
+
+      [2m+3 vendor frames [22m
+
+  4   app/Providers/RouteServiceProvider.php:37
+      Illuminate\Routing\RouteRegistrar::group()
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+2024-08-23 09:35:21.389 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/web.php:28
+     24▕ Route::get('/admin/outlet/hapus/{id}', [App\Http\Controllers\adminController::class, 'hapusOutlet']);
+     25▕ Route::get('/admin/outlet/edit/{id}', [App\Http\Controllers\adminController::class, 'editOutletView']);
+     26▕ Route::post('/admin/outlet/editoutlet/{id}', [App\Http\Controllers\adminController::class, 'editOutlet']);
+     27▕ Route::get('/admin/member/', )
+  ➜  28▕
+
+      [2m+3 vendor frames [22m
+
+  4   app/Providers/RouteServiceProvider.php:37
+      Illuminate\Routing\RouteRegistrar::group()
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+2024-08-23 09:47:16.793 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 09:47:18.532 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 09:53:20.439 [error] [Extension Host] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/web.php:31
+     27▕ Route::get('/admin/member/', [App\Http\Controllers\adminController::class, 'memberView']);
+     28▕ Route::get('/admin/member/tambahmember', [App\Http\Controllers\adminController::class, 'tambahmemberView']);
+     29▕ Route::post('/admin/member/tambahmember', [App\Http\Controllers\adminController::class, 'tambahmember']);
+     30▕ Route
+  ➜  31▕
+
+      [2m+3 vendor frames [22m
+
+  4   app/Providers/RouteServiceProvider.php:37
+      Illuminate\Routing\RouteRegistrar::group()
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+2024-08-23 09:53:21.432 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/web.php:31
+     27▕ Route::get('/admin/member/', [App\Http\Controllers\adminController::class, 'memberView']);
+     28▕ Route::get('/admin/member/tambahmember', [App\Http\Controllers\adminController::class, 'tambahmemberView']);
+     29▕ Route::post('/admin/member/tambahmember', [App\Http\Controllers\adminController::class, 'tambahmember']);
+     30▕ Route
+  ➜  31▕
+
+      [2m+3 vendor frames [22m
+
+  4   app/Providers/RouteServiceProvider.php:37
+      Illuminate\Routing\RouteRegistrar::group()
+      [2m+15 vendor frames [22m
+
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+
+2024-08-23 10:34:29.168 [warning] Failed to fetch chat participant registry Failed to fetch
+2024-08-23 10:36:17.814 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 10:36:19.200 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)
+2024-08-23 10:37:42.065 [error] Cannot read properties of undefined (reading 'toLowerCase'): TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at new r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:26797)
+    at Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:29673)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30481
+    at async Promise.all (index 1)
+    at async T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:689:30191)
+    at async Promise.all (index 0)

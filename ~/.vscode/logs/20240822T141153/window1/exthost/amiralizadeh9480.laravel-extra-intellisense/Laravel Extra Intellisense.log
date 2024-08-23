@@ -1,0 +1,95 @@
+2024-08-22 14:11:54.797 [info] Laravel Extra Intellisense Started...
+2024-08-22 14:11:54.797 [info] Laravel Extra Intellisense command started: HTTP Routes
+2024-08-22 14:11:54.797 [info] Laravel Extra Intellisense command started: Views paths
+2024-08-22 14:11:54.797 [info] Laravel Extra Intellisense command started: Configs
+2024-08-22 14:11:54.797 [info] Laravel Extra Intellisense command started: Translation namespaces
+2024-08-22 14:11:54.797 [info] Laravel Extra Intellisense command started: Middlewares
+2024-08-22 14:11:54.797 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:11:54.797 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:11:54.797 [info] Laravel Extra Intellisense command started: Eloquent Attributes and Relations
+2024-08-22 14:11:54.797 [info] Laravel Extra Intellisense command started: Custom Blade Directives
+2024-08-22 14:11:54.866 [info] Laravel Extra Intellisense Resolved: HTTP Routes
+2024-08-22 14:11:54.866 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:11:54.866 [info] Laravel Extra Intellisense Resolved: Middlewares
+2024-08-22 14:11:54.869 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:11:54.875 [info] Laravel Extra Intellisense Resolved: Translation namespaces
+2024-08-22 14:11:54.877 [info] Laravel Extra Intellisense command started: Translation Path
+2024-08-22 14:11:54.888 [info] Laravel Extra Intellisense Resolved: Configs
+2024-08-22 14:11:54.888 [info] Laravel Extra Intellisense Resolved: Eloquent Attributes and Relations
+2024-08-22 14:11:54.888 [info] Laravel Extra Intellisense Resolved: Custom Blade Directives
+2024-08-22 14:11:54.896 [info] Laravel Extra Intellisense Resolved: Views paths
+2024-08-22 14:11:54.898 [info] Laravel Extra Intellisense command started: Views
+2024-08-22 14:11:54.985 [info] Laravel Extra Intellisense Resolved: Translation Path
+2024-08-22 14:11:55.016 [info] Laravel Extra Intellisense Resolved: Views
+2024-08-22 14:12:54.775 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:12:54.775 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:12:54.852 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:12:54.854 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:13:54.775 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:13:54.775 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:13:54.849 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:13:54.850 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:14:54.777 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:14:54.777 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:14:54.867 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:14:54.867 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:15:17.293 [info] Laravel Extra Intellisense command started: HTTP Routes
+2024-08-22 14:15:17.380 [info] Laravel Extra Intellisense Resolved: HTTP Routes
+2024-08-22 14:15:25.924 [info] Laravel Extra Intellisense command started: HTTP Routes
+2024-08-22 14:15:26.004 [info] Laravel Extra Intellisense Resolved: HTTP Routes
+2024-08-22 14:15:54.778 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:15:54.778 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:15:54.864 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:15:54.865 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:16:52.710 [info] Laravel Extra Intellisense command started: HTTP Routes
+2024-08-22 14:16:52.792 [info] Laravel Extra Intellisense Resolved: HTTP Routes
+2024-08-22 14:16:54.773 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:16:54.773 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:16:54.849 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:16:54.850 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:17:54.779 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:17:54.779 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:17:54.865 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:17:54.866 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:18:54.779 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:18:54.779 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:18:54.876 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:18:54.876 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:19:54.780 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:19:54.780 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:19:54.863 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:19:54.863 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:20:54.780 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:20:54.780 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:20:54.861 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:20:54.861 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:21:54.794 [info] Laravel Extra Intellisense command started: Custom Blade Directives
+2024-08-22 14:21:54.803 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:21:54.803 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:21:54.884 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:21:54.885 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:21:54.886 [info] Laravel Extra Intellisense Resolved: Custom Blade Directives
+2024-08-22 14:22:54.827 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:22:54.827 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:22:54.913 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:22:54.913 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:23:54.828 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:23:54.828 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:23:54.906 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:23:54.907 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:24:54.851 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:24:54.851 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:24:54.938 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:24:54.938 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:25:54.879 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:25:54.879 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:25:54.954 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:25:54.954 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:26:54.904 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:26:54.904 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:26:54.988 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:26:54.989 [info] Laravel Extra Intellisense Resolved: Application Models
+2024-08-22 14:27:54.936 [info] Laravel Extra Intellisense command started: Application Models
+2024-08-22 14:27:54.936 [info] Laravel Extra Intellisense command started: Auth Data
+2024-08-22 14:27:55.024 [info] Laravel Extra Intellisense Resolved: Auth Data
+2024-08-22 14:27:55.027 [info] Laravel Extra Intellisense Resolved: Application Models

@@ -1,2 +1,3 @@
-2024/08/22-10:55:54.971 6f6e Creating DB /home/rafiahfa/praktik/~/.vscode/Local Storage/leveldb since it was missing.
-2024/08/22-10:55:55.120 6f6e Reusing MANIFEST /home/rafiahfa/praktik/~/.vscode/Local Storage/leveldb/MANIFEST-000001
+2024/08/23-07:53:09.297 a09 Reusing MANIFEST /home/rafiahfa/praktik/~/.vscode/Local Storage/leveldb/MANIFEST-000001
+2024/08/23-07:53:09.587 a09 Recovering log #3
+2024/08/23-07:53:09.587 a09 Reusing old log /home/rafiahfa/praktik/~/.vscode/Local Storage/leveldb/000003.log 
